@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アイアンリーガー～限りなき使命～",
+  "base_artist": "谷本憲彦",
+  "createdAt": "2026-02-11T15:27:48.138590Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイアンリーガー～限りなき使命～",
+      "artist": "谷本憲彦",
+      "has_synced": false,
+      "path": "select/pl_01_アイアンリーガー~限りなき使命~_谷本憲彦.txt"
+    }
+  ]
+}
